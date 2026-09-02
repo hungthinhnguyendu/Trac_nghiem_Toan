@@ -9,6 +9,45 @@ import re
 import base64
 
 st.set_page_config(page_title="Khảo Thí Toán Phước Thịnh", layout="wide")
+import streamlit as st
+
+st.markdown("""
+<style>
+/* Đổi nền trang web sang màu xanh nhạt dịu mắt */
+.stApp {
+    background-color: #f4f9f9;
+}
+/* Khung tiêu đề dạng gradient lôi cuốn */
+.title-box {
+    background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: #1E3C72;
+    font-family: 'Arial', sans-serif;
+    box-shadow: 2px 4px 10px rgba(0,0,0,0.1);
+    margin-bottom: 25px;
+}
+/* Tạo khối nổi 3D cho nút bấm */
+div.stButton > button:first-child {
+    background-color: #FF4B4B;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+    border: 2px solid #FF4B4B;
+    transition: 0.3s;
+}
+/* Đổi màu nút khi học sinh chạm tay vào */
+div.stButton > button:first-child:hover {
+    background-color: white;
+    color: #FF4B4B;
+    border: 2px solid #FF4B4B;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# Hiển thị tiêu đề đã được gắn CSS
+st.markdown('<div class="title-box"><h2>🚀 HỆ THỐNG TRẮC NGHIỆM TOÁN THPT</h2></div>', unsafe_allow_html=True)
 
 THU_MUC_JSON = "NGAN_HANG_JSON"
 if not os.path.exists(THU_MUC_JSON):
