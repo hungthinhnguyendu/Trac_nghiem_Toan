@@ -1,0 +1,626 @@
+[
+    {
+        "id": "CAU_1",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^3 - 3x^2 + 1$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 0)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(0; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(0; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_2",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^3 - 6x^2 + 9x + 2$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 1)$ và $(3; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(1; 3)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 3)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(1; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_3",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = -x^3 + 3x^2 + 9x - 5$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(3; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 3)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; 3)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_4",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^3 + 3x^2 - 4$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(0; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-2; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_5",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^3 - 12x + 7$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-2; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_6",
+        "phan": "Phan_1",
+        "nhom": "Nhom_1",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = -x^3 + 6x^2 - 1$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 0)$ và $(4; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(0; 4)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; 4)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(0; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_7",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^4 - 2x^2 + 3$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(0; 1)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 0)$ và $(1; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_8",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = -x^4 + 8x^2 - 1$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(0; 2)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-2; 0)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(0; 2)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_9",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^4 + 2x^2 + 1$. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(0; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -1)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$",
+                "la_dap_an_dung": true
+            }
+        ]
+    },
+    {
+        "id": "CAU_10",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = -x^4 - 4x^2 + 5$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(0; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; 0)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_11",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = x^4 - 18x^2 + 5$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-3; 0)$ và $(3; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$ và $(3; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -3)$ và $(0; 3)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-3; 0)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_12",
+        "phan": "Phan_1",
+        "nhom": "Nhom_2",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = -2x^4 + 4x^2 + 2$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(0; 1)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 0)$ và $(1; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 1)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_13",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{2x - 1}{x + 1}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(-1; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; -1) \\cup (-1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{-1\\}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_14",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{-x + 3}{x - 2}$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 2) \\cup (2; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(-2; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{2\\}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 2)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": true
+            }
+        ]
+    },
+    {
+        "id": "CAU_15",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{3x + 1}{x - 1}$. Mệnh đề nào dưới đây đúng?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "Hàm số nghịch biến trên các khoảng $(-\\infty; 1)$ và $(1; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "Hàm số nghịch biến trên $\\mathbb{R} \\setminus \\{1\\}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "Hàm số đồng biến trên các khoảng $(-\\infty; 1)$ và $(1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "Hàm số nghịch biến trên các khoảng $(-\\infty; -1)$ và $(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_16",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x + 2}{x - 3}$. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(3; +\\infty)$ và $(-\\infty; 3)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 3) \\cup (3; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{3\\}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(3; +\\infty)$",
+                "la_dap_an_dung": true
+            }
+        ]
+    },
+    {
+        "id": "CAU_17",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x - 3}{x + 2}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$\\mathbb{R}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 2)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(-2; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{-2\\}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_18",
+        "phan": "Phan_1",
+        "nhom": "Nhom_3",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{-x - 2}{x - 1}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 1) \\cup (1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; 1)$ và $(1; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{1\\}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_19",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x^2+x+1}{x+1}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(0; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-2; -1)$ và $(-1; 0)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; 0)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_20",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x^2-x+4}{x-1}$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-1; 1)$ và $(1; 3)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(3; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 3)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{1\\}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_21",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{-x^2-2x-1}{x+2}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-3; -2)$ và $(-2; -1)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; -3)$ và $(-1; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-3; -1)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(-2; +\\infty)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_22",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x^2-2x+4}{x}$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-2; 0)$ và $(0; 2)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-\\infty; -2)$ và $(2; +\\infty)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-2; 2)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{0\\}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_23",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{-x^2+3x-11}{x-2}$. Hàm số đã cho nghịch biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; -1)$ và $(5; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(-1; 2)$ và $(2; 5)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(-1; 5)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{2\\}$",
+                "la_dap_an_dung": false
+            }
+        ]
+    },
+    {
+        "id": "CAU_24",
+        "phan": "Phan_1",
+        "nhom": "Nhom_4",
+        "loai_cau": "Phan_1_Trac_Nghiem",
+        "de_bai": "Cho hàm số $y = \\dfrac{x^2-8}{x-3}$. Hàm số đã cho đồng biến trên các khoảng nào dưới đây?",
+        "hinh_anh": "",
+        "phuong_an": [
+            {
+                "noi_dung": "$(-\\infty; 2)$ và $(4; +\\infty)$",
+                "la_dap_an_dung": true
+            },
+            {
+                "noi_dung": "$(2; 3)$ và $(3; 4)$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$\\mathbb{R} \\setminus \\{3\\}$",
+                "la_dap_an_dung": false
+            },
+            {
+                "noi_dung": "$(2; 4)$",
+                "la_dap_an_dung": false
+            }
+        ]
+    }
+]
