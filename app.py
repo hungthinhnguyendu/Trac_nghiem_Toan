@@ -351,9 +351,31 @@ if 'de_thi' in st.session_state and sum(len(v) for v in st.session_state['de_thi
     """
     components.html(timer_html, height=80)
 
-    col1, col2 = st.columns(2)
-    with col1: ho_ten = st.text_input("Họ và Tên học sinh:")
-    with col2: lop = st.text_input("Lớp:")
+    # Bắt đầu khu vực chọn thông tin học sinh
+    col1, col2 = st.columns([1, 2]) # Cột tên rộng hơn cột lớp một chút
+    
+    # Đọc danh sách từ file Excel thầy đã chuẩn bị
+    try:
+        df_ds = pd.read_excel("DanhSachHocSinh.xlsx")
+        # Lấy danh sách các lớp (loại bỏ trùng lặp)
+        danh_sach_lop = df_ds['Lớp'].dropna().unique().tolist()
+    except Exception:
+        st.error("⚠️ Hệ thống chưa tìm thấy file DanhSachHocSinh.xlsx")
+        danh_sach_lop = []
+        df_ds = pd.DataFrame(columns=['Lớp', 'Họ Tên'])
+
+    with col1: 
+        lop = st.selectbox("Lớp:", options=danh_sach_lop, index=None, placeholder="-- Chọn lớp --")
+        
+    with col2: 
+        # Tự động lọc danh sách học sinh theo lớp vừa chọn
+        if lop:
+            danh_sach_ten = df_ds[df_ds['Lớp'] == lop]['Họ Tên'].dropna().tolist()
+        else:
+            danh_sach_ten = []
+            
+        ho_ten = st.selectbox("Họ và Tên học sinh:", options=danh_sach_ten, index=None, placeholder="-- Vui lòng chọn Lớp trước --")
+        
     st.markdown("---")
 
     with st.form(key='form_lam_bai'):
